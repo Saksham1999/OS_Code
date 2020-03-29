@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct Proces
+struct Process
 {
 	int arrival_time; //Process Arrival Time
 	int burst_time; //Process Burst Time
