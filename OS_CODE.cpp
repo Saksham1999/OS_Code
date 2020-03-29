@@ -12,7 +12,7 @@ struct Process
 	int start_time; //Process start Time
 	int response_time;// Process response time
 	int Num;
-	int Pid;  //Process Id
+	int Pi;  //Process Id
 
 };
 
